@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    background-color: #1F2937;
+}
+
+.header > p,
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.info-section > h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.info-section > p {
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.signup-button,
+img {
+    border-radius: 25px;
+}
+
+.signup-button,
+.signup-section,
+.signup-section > h2 {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.signup-section {
+    border-radius: 10px;
+}
+
+.quote-section {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
+}
